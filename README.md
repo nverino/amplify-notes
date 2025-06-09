@@ -1,4 +1,18 @@
-# React + Vite
+## Commands
+
+### Create Project
+
+```bash
+npm create vite@latest notesapp -- --template react
+```
+
+### Install Amplify
+
+```bash
+npm create amplify@latest -y
+```
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
